@@ -1,0 +1,26 @@
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+
+# React
+node_modules/
+build/
+dist/
+
+# Logs
+*.log
+
+# Config / Secrets
+appsettings.Development.json
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Uploaded files (optional)
+wwwroot/covers/
